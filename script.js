@@ -17,7 +17,7 @@ function getemail(event){
   };
 
   emailjs
-    .send("service_7sszn5j", "template_yxd1a34", parms)
+    .send("service_t5yag4a", "template_yxd1a34", parms)
     .then(function () {
       alert("Email sent successfully!");
     })
